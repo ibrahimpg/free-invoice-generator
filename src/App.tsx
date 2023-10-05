@@ -40,7 +40,10 @@ function App() {
         <div className="px-4 py-8 mx-auto max-w-2xl">
           <h2 className="mb-2 text-xl font-bold text-white">
             Free and Easy Invoice Generator.{" "}
-            <a href="#" className="underline underline-offset-4">
+            <a
+              href="https://github.com/ibrahimpg/free-invoice-generator"
+              className="underline underline-offset-4"
+            >
               Source code.
             </a>
           </h2>
